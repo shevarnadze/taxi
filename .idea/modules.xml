@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/taxi.iml" filepath="$PROJECT_DIR$/taxi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxi-service/taxi-service.iml" filepath="$PROJECT_DIR$/taxi-service/taxi-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/taxi-web-view/taxi-web-view.iml" filepath="$PROJECT_DIR$/taxi-web-view/taxi-web-view.iml" />
+    </modules>
+  </component>
+</project>
